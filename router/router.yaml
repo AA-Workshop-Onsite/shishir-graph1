@@ -22,3 +22,7 @@ limits:
   max_depth: 5
   max_height: 30
   max_aliases: 3
+  
+## Authentication and Authorization Module
+authentication:
+  router:  
